@@ -1,0 +1,245 @@
+10
+
+dir
+274897
+svn://svn.freebsd.org/base/releng/9.1/sys/modules/usb
+svn://svn.freebsd.org/base
+
+
+
+2012-02-19T07:44:38.287557Z
+231905
+rmh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+uss820dci
+dir
+
+kue
+dir
+
+ukbd
+dir
+
+uvisor
+dir
+
+umass
+dir
+
+usb
+dir
+
+uep
+dir
+
+udbp
+dir
+
+rue
+dir
+
+xhci
+dir
+
+uether
+dir
+
+u3g
+dir
+
+at91dci
+dir
+
+cdce
+dir
+
+mos
+dir
+
+uplcom
+dir
+
+uath
+dir
+
+uark
+dir
+
+uslcom
+dir
+
+rum
+dir
+
+run
+dir
+
+ums
+dir
+
+zyd
+dir
+
+ufoma
+dir
+
+ehci
+dir
+
+axe
+dir
+
+avr32dci
+dir
+
+Makefile
+file
+
+
+
+
+2014-09-24T21:46:29.209303Z
+1effbcb0b4543590ca0b7309e032da05
+2012-02-19T07:44:38.287557Z
+231905
+rmh
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2314
+
+atmegadci
+dir
+
+usfs
+dir
+
+ubser
+dir
+
+ipheth
+dir
+
+ugensa
+dir
+
+ohci
+dir
+
+ulpt
+dir
+
+atp
+dir
+
+umodem
+dir
+
+ufm
+dir
+
+uhci
+dir
+
+uhid
+dir
+
+ubsa
+dir
+
+quirk
+dir
+
+udav
+dir
+
+ucycom
+dir
+
+urtw
+dir
+
+ucom
+dir
+
+ural
+dir
+
+usie
+dir
+
+musb
+dir
+
+umcs
+dir
+
+umct
+dir
+
+aue
+dir
+
+template
+dir
+
+uftdi
+dir
+
+uvscom
+dir
+
+cue
+dir
+
+urio
+dir
+
+uhso
+dir
+
+uchcom
+dir
+
+upgt
+dir
+
+uipaq
+dir
+
+umoscom
+dir
+

@@ -1,7 +1,7 @@
 10
 
 dir
-274884
+274897
 svn://svn.freebsd.org/base/releng/9.1/contrib/telnet
 svn://svn.freebsd.org/base
 
@@ -26,6 +26,9 @@ has-props
 
 ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
 
+telnet
+dir
+
 telnetd
 dir
 
@@ -33,8 +36,5 @@ libtelnet
 dir
 
 arpa
-dir
-
-telnet
 dir
 

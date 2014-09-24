@@ -1,7 +1,7 @@
 10
 
 dir
-274884
+274897
 svn://svn.freebsd.org/base/releng/9.1/tools/regression/netinet6/ip6_sockets
 svn://svn.freebsd.org/base
 
@@ -32,7 +32,7 @@ file
 
 
 
-2014-11-22T19:23:45.000000Z
+2014-09-24T21:48:36.021308Z
 aedb57a3a697ce584a4df1212a650a4e
 2006-07-19T12:54:14.000000Z
 160500
@@ -66,7 +66,7 @@ file
 
 
 
-2014-11-22T19:23:45.000000Z
+2014-09-24T21:48:36.021308Z
 6f13fe4d927151e3f7d2d3cad382b892
 2006-07-19T12:54:14.000000Z
 160500

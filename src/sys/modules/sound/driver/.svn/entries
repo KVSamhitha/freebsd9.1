@@ -1,0 +1,201 @@
+10
+
+dir
+274897
+svn://svn.freebsd.org/base/releng/9.1/sys/modules/sound/driver
+svn://svn.freebsd.org/base
+
+
+
+2012-03-19T07:34:09.398663Z
+233165
+mav
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+hdspe
+dir
+
+ich
+dir
+
+ad1816
+dir
+
+csa
+dir
+
+vibes
+dir
+
+cmi
+dir
+
+sb16
+dir
+
+t4dwave
+dir
+
+emu10k1
+dir
+
+cs4281
+dir
+
+spicds
+dir
+
+Makefile.inc
+file
+
+
+
+
+2014-09-24T21:46:26.169303Z
+374034fe1c3c289e78b46ccbb9c000cc
+2001-04-08T21:50:41.000000Z
+75325
+obrien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94
+
+ds1
+dir
+
+envy24
+dir
+
+ess
+dir
+
+es137x
+dir
+
+emu10kx
+dir
+
+driver
+dir
+
+hda
+dir
+
+maestro3
+dir
+
+atiixp
+dir
+
+ai2s
+dir
+
+via82c686
+dir
+
+mss
+dir
+
+sbc
+dir
+
+maestro
+dir
+
+solo
+dir
+
+Makefile
+file
+
+
+
+
+2014-09-24T21:46:26.169303Z
+33989083d273e42629ffdbed1ff14212
+2012-03-19T07:34:09.398663Z
+233165
+mav
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+765
+
+neomagic
+dir
+
+envy24ht
+dir
+
+als4000
+dir
+
+davbus
+dir
+
+uaudio
+dir
+
+audiocs
+dir
+
+fm801
+dir
+
+sb8
+dir
+
+via8233
+dir
+

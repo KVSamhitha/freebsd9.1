@@ -1,7 +1,7 @@
 10
 
 dir
-274884
+274897
 svn://svn.freebsd.org/base/releng/9.1/contrib/llvm/tools
 svn://svn.freebsd.org/base
 
@@ -25,21 +25,6 @@ dim
 
 
 ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-llvm-ranlib
-dir
-
-lli
-dir
-
-llvm-diff
-dir
-
-llvm-nm
-dir
-
-llvm-extract
-dir
 
 clang
 dir
@@ -77,13 +62,13 @@ dir
 llvm-objdump
 dir
 
-llvm-ar
+llvm-rtdyld
 dir
 
 llc
 dir
 
-llvm-rtdyld
+llvm-ar
 dir
 
 llvm-as
@@ -93,5 +78,20 @@ llvm-readobj
 dir
 
 llvm-prof
+dir
+
+llvm-ranlib
+dir
+
+llvm-diff
+dir
+
+lli
+dir
+
+llvm-extract
+dir
+
+llvm-nm
 dir
 

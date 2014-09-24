@@ -1,0 +1,357 @@
+10
+
+dir
+274897
+svn://svn.freebsd.org/base/releng/9.1/lib
+svn://svn.freebsd.org/base
+
+
+
+2013-04-02T17:34:42.234208Z
+249029
+delphij
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+libbsnmp
+dir
+
+libpmc
+dir
+
+libgpib
+dir
+
+libarchive
+dir
+
+libc
+dir
+
+libkse
+dir
+
+libcompat
+dir
+
+Makefile
+file
+
+
+
+
+2014-09-24T21:52:46.321319Z
+4e75e58348f257edab1da05e80f61bf9
+2012-05-22T18:30:14.059632Z
+235798
+theraven
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4253
+
+libgeom
+dir
+
+libalias
+dir
+
+libusb
+dir
+
+libopie
+dir
+
+clang
+dir
+
+libsbuf
+dir
+
+librpcsvc
+dir
+
+libmd
+dir
+
+libipsec
+dir
+
+libulog
+dir
+
+libngatm
+dir
+
+libelf
+dir
+
+libcxxrt
+dir
+
+liby
+dir
+
+libz
+dir
+
+libcalendar
+dir
+
+libwrap
+dir
+
+libthread_db
+dir
+
+libmp
+dir
+
+libsmutil
+dir
+
+libusbhid
+dir
+
+libbegemot
+dir
+
+libpcap
+dir
+
+libsmdb
+dir
+
+libsdp
+dir
+
+libstdbuf
+dir
+
+libkiconv
+dir
+
+Makefile.inc
+file
+
+
+
+
+2014-09-24T21:52:46.321319Z
+a6dfef703e1e15bb7cf19e1385276362
+2010-01-02T09:58:07.614395Z
+201381
+ed
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+115
+
+libprocstat
+dir
+
+libipx
+dir
+
+libcam
+dir
+
+csu
+dir
+
+libproc
+dir
+
+libbluetooth
+dir
+
+libypclnt
+dir
+
+libstand
+dir
+
+libmemstat
+dir
+
+librtld_db
+dir
+
+libncp
+dir
+
+libsmb
+dir
+
+libbsm
+dir
+
+librt
+dir
+
+libedit
+dir
+
+bind
+dir
+
+libcom_err
+dir
+
+libradius
+dir
+
+libvgl
+dir
+
+libdevinfo
+dir
+
+libtelnet
+dir
+
+librpcsec_gss
+dir
+
+ncurses
+dir
+
+libcrypt
+dir
+
+libefi
+dir
+
+libdwarf
+dir
+
+libtacplus
+dir
+
+libutil
+dir
+
+libiconv
+dir
+
+libcompiler_rt
+dir
+
+libjail
+dir
+
+libsm
+dir
+
+libmagic
+dir
+
+libexpat
+dir
+
+libblocksruntime
+dir
+
+libftpio
+dir
+
+libugidfw
+dir
+
+libgssapi
+dir
+
+libfetch
+dir
+
+libdisk
+dir
+
+msun
+dir
+
+libmilter
+dir
+
+libkvm
+dir
+
+libbz2
+dir
+
+libthr
+dir
+
+libufs
+dir
+
+liblzma
+dir
+
+libiconv_modules
+dir
+
+libc++
+dir
+
+libnetgraph
+dir
+
+libdevstat
+dir
+
+libauditd
+dir
+
+libpam
+dir
+

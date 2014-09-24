@@ -1,7 +1,7 @@
 10
 
 dir
-274884
+274897
 svn://svn.freebsd.org/base/releng/9.1/tools/regression/pjdfstest/tests
 svn://svn.freebsd.org/base
 
@@ -26,6 +26,67 @@ pjd
 
 ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
 
+open
+dir
+
+misc.sh
+file
+
+
+
+
+2014-09-24T21:48:36.829308Z
+a20f1e146c56ac336a8c793b15fa052f
+2010-08-15T21:29:03.573154Z
+211354
+pjd
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3880
+
+mkdir
+dir
+
+chflags
+dir
+
+rename
+dir
+
+mknod
+dir
+
+mkfifo
+dir
+
+granular
+dir
+
+rmdir
+dir
+
+chown
+dir
+
 truncate
 dir
 
@@ -35,7 +96,7 @@ file
 
 
 
-2014-11-22T19:23:43.000000Z
+2014-09-24T21:48:36.829308Z
 f531a268a00c1e3cf7ae2c2236e3f86a
 2010-08-15T21:29:03.573154Z
 211354
@@ -76,66 +137,5 @@ link
 dir
 
 unlink
-dir
-
-open
-dir
-
-misc.sh
-file
-
-
-
-
-2014-11-22T19:23:43.000000Z
-a20f1e146c56ac336a8c793b15fa052f
-2010-08-15T21:29:03.573154Z
-211354
-pjd
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3880
-
-mkdir
-dir
-
-rename
-dir
-
-chflags
-dir
-
-mknod
-dir
-
-granular
-dir
-
-mkfifo
-dir
-
-rmdir
-dir
-
-chown
 dir
 

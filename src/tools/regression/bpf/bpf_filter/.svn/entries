@@ -1,7 +1,7 @@
 10
 
 dir
-274884
+274897
 svn://svn.freebsd.org/base/releng/9.1/tools/regression/bpf/bpf_filter
 svn://svn.freebsd.org/base
 
@@ -26,16 +26,13 @@ jkim
 
 ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
 
-tests
-dir
-
 bpf_test.c
 file
 
 
 
 
-2014-11-22T19:23:45.000000Z
+2014-09-24T21:48:39.353308Z
 18afbe7fd0969f24ae75cec1d820485e
 2009-11-20T19:01:09.059777Z
 199605
@@ -69,7 +66,7 @@ file
 
 
 
-2014-11-22T19:23:45.000000Z
+2014-09-24T21:48:39.353308Z
 390e180a3e9563e6b0713f675289ba34
 2009-11-20T18:53:38.342905Z
 199604
@@ -96,4 +93,7 @@ has-props
 
 
 2028
+
+tests
+dir
 

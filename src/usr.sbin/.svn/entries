@@ -1,0 +1,988 @@
+10
+
+dir
+274897
+svn://svn.freebsd.org/base/releng/9.1/usr.sbin
+svn://svn.freebsd.org/base
+
+
+
+2014-10-21T20:21:10.775513Z
+273415
+delphij
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+dnssec-revoke
+dir
+
+pnpinfo
+dir
+
+asf
+dir
+
+flowctl
+dir
+
+rrenumd
+dir
+
+btxld
+dir
+
+tzsetup
+dir
+
+memcontrol
+dir
+
+Makefile.ia64
+file
+
+
+
+
+2014-09-24T21:52:05.689317Z
+f4c7435c6a90e73efe1393a44df5b323
+2010-09-13T02:21:07.099262Z
+212525
+imp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+135
+
+ugidfw
+dir
+
+fdread
+dir
+
+zic
+dir
+
+adduser
+dir
+
+nscd
+dir
+
+smbmsg
+dir
+
+freebsd-update
+dir
+
+named-checkzone
+dir
+
+periodic
+dir
+
+Makefile.sparc64
+file
+
+
+
+
+2014-09-24T21:52:05.685317Z
+26043c8ba5683da739a885c07062465c
+2010-09-13T02:21:07.099262Z
+212525
+imp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+117
+
+nfscbd
+dir
+
+rpc.ypxfrd
+dir
+
+repquota
+dir
+
+lptcontrol
+dir
+
+mailstats
+dir
+
+rndc-confgen
+dir
+
+dumpcis
+dir
+
+diskinfo
+dir
+
+wlandebug
+dir
+
+ifmcstat
+dir
+
+crashinfo
+dir
+
+mtree
+dir
+
+nfsdumpstate
+dir
+
+Makefile
+file
+
+
+
+
+2014-09-24T21:52:05.685317Z
+b63feaa964823911305e75a3f1f4949b
+2012-05-06T22:50:07.081712Z
+235112
+bapt
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4482
+
+chown
+dir
+
+IPXrouted
+dir
+
+editmap
+dir
+
+ac
+dir
+
+named
+dir
+
+syslogd
+dir
+
+fifolog
+dir
+
+nghook
+dir
+
+pw
+dir
+
+cdcontrol
+dir
+
+pwd_mkdb
+dir
+
+wpa
+dir
+
+mld6query
+dir
+
+keyserv
+dir
+
+fdcontrol
+dir
+
+sendmail
+dir
+
+moused
+dir
+
+mount_smbfs
+dir
+
+spray
+dir
+
+gpioctl
+dir
+
+rpc.yppasswdd
+dir
+
+amd
+dir
+
+cron
+dir
+
+timed
+dir
+
+daemon
+dir
+
+portsnap
+dir
+
+watch
+dir
+
+wlconfig
+dir
+
+ftp-proxy
+dir
+
+pmcannotate
+dir
+
+kgmon
+dir
+
+snapinfo
+dir
+
+chkgrp
+dir
+
+digictl
+dir
+
+rtprio
+dir
+
+yppoll
+dir
+
+nsec3hash
+dir
+
+getpmac
+dir
+
+rpcbind
+dir
+
+vidcontrol
+dir
+
+mailwrapper
+dir
+
+Makefile.mips
+file
+
+
+
+
+2014-09-24T21:52:05.685317Z
+d1859b4394ff75d4852b0a447f458f0b
+2011-01-27T14:16:12.187496Z
+217942
+jchandra
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+175
+
+vipw
+dir
+
+Makefile.inc
+file
+
+
+
+
+2014-09-24T21:52:05.569317Z
+0ba8f6f87393fc61885be48f3decd40a
+2010-01-02T11:07:44.030415Z
+201390
+ed
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+85
+
+eeprom
+dir
+
+route6d
+dir
+
+quot
+dir
+
+devinfo
+dir
+
+newsyslog
+dir
+
+extattr
+dir
+
+pstat
+dir
+
+setpmac
+dir
+
+lastlogin
+dir
+
+zzz
+dir
+
+auditreduce
+dir
+
+ctladm
+dir
+
+named-checkconf
+dir
+
+accton
+dir
+
+praudit
+dir
+
+tcpdrop
+dir
+
+manctl
+dir
+
+utxrm
+dir
+
+ndp
+dir
+
+clear_locks
+dir
+
+rpc.ypupdated
+dir
+
+praliases
+dir
+
+rndc
+dir
+
+jls
+dir
+
+dnssec-keyfromlabel
+dir
+
+lpr
+dir
+
+jexec
+dir
+
+mptutil
+dir
+
+rpc.umntall
+dir
+
+ppp
+dir
+
+kldxref
+dir
+
+bsdinstall
+dir
+
+gssd
+dir
+
+ntp
+dir
+
+edquota
+dir
+
+fdformat
+dir
+
+inetd
+dir
+
+traceroute6
+dir
+
+boot0cfg
+dir
+
+sa
+dir
+
+config
+dir
+
+bluetooth
+dir
+
+audit
+dir
+
+getfmac
+dir
+
+dconschat
+dir
+
+pkg_install
+dir
+
+tcpdmatch
+dir
+
+pmcstat
+dir
+
+sade
+dir
+
+usbconfig
+dir
+
+ofwdump
+dir
+
+pciconf
+dir
+
+setfmac
+dir
+
+bsnmpd
+dir
+
+rwhod
+dir
+
+mixer
+dir
+
+dnssec-settime
+dir
+
+Makefile.amd64
+file
+
+
+
+
+2014-09-24T21:52:05.685317Z
+ebd26d1f74dfcd9933778767bc496778
+2010-12-09T11:37:40.597798Z
+216322
+brucec
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+595
+
+chroot
+dir
+
+rmt
+dir
+
+pppctl
+dir
+
+fdwrite
+dir
+
+boot98cfg
+dir
+
+ddns-confgen
+dir
+
+Makefile.i386
+file
+
+
+
+
+2014-09-24T21:52:05.685317Z
+8842c2495780cfe87967e03b32463f5c
+2010-09-13T02:21:07.099262Z
+212525
+imp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+700
+
+rip6query
+dir
+
+mfiutil
+dir
+
+auditd
+dir
+
+makemap
+dir
+
+sicontrol
+dir
+
+traceroute
+dir
+
+i2c
+dir
+
+apm
+dir
+
+burncd
+dir
+
+rpc.lockd
+dir
+
+usbdump
+dir
+
+spkrtest
+dir
+
+pmccontrol
+dir
+
+tcpdchk
+dir
+
+apmd
+dir
+
+ctm
+dir
+
+rtadvd
+dir
+
+mptable
+dir
+
+ypbind
+dir
+
+quotaon
+dir
+
+ypserv
+dir
+
+yppush
+dir
+
+nfsuserd
+dir
+
+mtest
+dir
+
+mlxcontrol
+dir
+
+rpc.statd
+dir
+
+iostat
+dir
+
+procctl
+dir
+
+dnssec-signzone
+dir
+
+ndiscvt
+dir
+
+acpi
+dir
+
+setfib
+dir
+
+jail
+dir
+
+dnssec-dsfromkey
+dir
+
+services_mkdb
+dir
+
+pkg
+dir
+
+ckdist
+dir
+
+uhsoctl
+dir
+
+gstat
+dir
+
+rtadvctl
+dir
+
+arpaname
+dir
+
+kgzip
+dir
+
+cpucontrol
+dir
+
+trpt
+dir
+
+nfsd
+dir
+
+Makefile.powerpc
+file
+
+
+
+
+2014-09-24T21:52:05.685317Z
+328615b952d18c2e56a5d8f736d671ba
+2010-09-13T02:21:07.099262Z
+212525
+imp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+
+Makefile.arm
+file
+
+
+
+
+2014-09-24T21:52:05.689317Z
+dc8fe043c9f0d9f038073ae629878636
+2010-09-13T02:21:07.099262Z
+212525
+imp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76
+
+ip6addrctl
+dir
+
+mount_nwfs
+dir
+
+faithd
+dir
+
+service
+dir
+
+kbdcontrol
+dir
+
+uathload
+dir
+
+nfsrevoke
+dir
+
+sysinstall
+dir
+
+pc-sysinstall
+dir
+
+mountd
+dir
+
+ngctl
+dir
+
+rarpd
+dir
+
+named-journalprint
+dir
+
+ipfwpcap
+dir
+
+genrandom
+dir
+
+mergemaster
+dir
+
+mount_portalfs
+dir
+
+tcpdump
+dir
+
+fwcontrol
+dir
+
+isc-hmac-fixup
+dir
+
+arp
+dir
+
+crunch
+dir
+
+nvram
+dir
+
+yp_mkdb
+dir
+
+wake
+dir
+
+authpf
+dir
+
+bootparamd
+dir
+
+extattrctl
+dir
+
+kbdmap
+dir
+
+ancontrol
+dir
+
+dnssec-keygen
+dir
+
+powerd
+dir
+
+lmcconfig
+dir
+
+watchdogd
+dir
+
+ypset
+dir
+
+nologin
+dir
+
+makefs
+dir
+
+rtsold
+dir
+

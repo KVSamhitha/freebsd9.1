@@ -1,7 +1,7 @@
 10
 
 dir
-274884
+274897
 svn://svn.freebsd.org/base/releng/9.1/share/doc/psd/06.Clang
 svn://svn.freebsd.org/base
 
@@ -26,47 +26,13 @@ ru
 
 ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
 
-Clang.ms
-file
-
-
-
-
-2014-11-22T19:24:56.000000Z
-a7c783d707f498ba158308ee9f577ed9
-2002-10-12T14:50:50.000000Z
-104986
-schweikh
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-100510
-
 Makefile
 file
 
 
 
 
-2014-11-22T19:24:56.000000Z
+2014-09-24T21:51:41.849316Z
 a98b6725f4427168372cc6f0388a1785
 2004-10-24T15:33:08.000000Z
 136910
@@ -93,4 +59,38 @@ has-props
 
 
 133
+
+Clang.ms
+file
+
+
+
+
+2014-09-24T21:51:41.849316Z
+a7c783d707f498ba158308ee9f577ed9
+2002-10-12T14:50:50.000000Z
+104986
+schweikh
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100510
 

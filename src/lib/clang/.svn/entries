@@ -1,0 +1,340 @@
+10
+
+dir
+274897
+svn://svn.freebsd.org/base/releng/9.1/lib/clang
+svn://svn.freebsd.org/base
+
+
+
+2012-05-27T12:01:04.531116Z
+236144
+dim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+libllvmtarget
+dir
+
+libllvmjit
+dir
+
+libclangarcmigrate
+dir
+
+libclangbasic
+dir
+
+libllvmmipscodegen
+dir
+
+libllvmruntimedyld
+dir
+
+libllvmobject
+dir
+
+libclangstaticanalyzerfrontend
+dir
+
+libllvmipa
+dir
+
+libllvminstcombine
+dir
+
+libllvmscalaropts
+dir
+
+libllvmsupport
+dir
+
+libllvmpowerpcdesc
+dir
+
+libllvmarmdesc
+dir
+
+libclangparse
+dir
+
+libllvmipo
+dir
+
+libclangfrontendtool
+dir
+
+libllvmcore
+dir
+
+libllvmpowerpcinfo
+dir
+
+libllvmarminfo
+dir
+
+Makefile
+file
+
+
+
+
+2014-09-24T21:52:23.701318Z
+2263572ba5bc52a8787418a9439b42a5
+2012-05-18T21:49:11.408763Z
+235633
+dim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1644
+
+libllvmtransformutils
+dir
+
+include
+dir
+
+libclangast
+dir
+
+libclanglex
+dir
+
+libllvminstrumentation
+dir
+
+libllvminterpreter
+dir
+
+clang.build.mk
+file
+
+
+
+
+2014-09-24T21:52:23.701318Z
+085a5a73a8f939ef4e9d7e37eb7bbb52
+2012-05-18T21:49:11.408763Z
+235633
+dim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6390
+
+libllvmmipsinstprinter
+dir
+
+libllvmx86codegen
+dir
+
+libllvmbitwriter
+dir
+
+clang.lib.mk
+file
+
+
+
+
+2014-09-24T21:52:23.701318Z
+6c7d4afbf35e07c8d962d9db5db2c52b
+2010-06-09T19:32:20.432270Z
+208963
+rdivacky
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+120
+
+libclangstaticanalyzercheckers
+dir
+
+libllvmx86desc
+dir
+
+libllvmasmprinter
+dir
+
+libclangfrontend
+dir
+
+libllvmmcdisassembler
+dir
+
+libllvmmc
+dir
+
+libllvmx86info
+dir
+
+libllvmselectiondag
+dir
+
+libllvmx86asmparser
+dir
+
+libllvmcodegen
+dir
+
+libllvmarmcodegen
+dir
+
+libllvmpowerpccodegen
+dir
+
+libclangdriver
+dir
+
+libllvmvectorize
+dir
+
+libllvmarmdisassembler
+dir
+
+libclangstaticanalyzercore
+dir
+
+libllvmtablegen
+dir
+
+libllvmmipsasmparser
+dir
+
+libllvmx86instprinter
+dir
+
+libclangserialization
+dir
+
+libllvmexecutionengine
+dir
+
+libclangrewrite
+dir
+
+libllvmarmasmparser
+dir
+
+libllvmasmparser
+dir
+
+libclanganalysis
+dir
+
+libclangsema
+dir
+
+libclangedit
+dir
+
+libllvmbitreader
+dir
+
+libllvmdebuginfo
+dir
+
+libllvmx86utils
+dir
+
+libllvmmcjit
+dir
+
+libllvmmipsdesc
+dir
+
+libllvmmcparser
+dir
+
+libclangcodegen
+dir
+
+libllvmpowerpcinstprinter
+dir
+
+libllvmarminstprinter
+dir
+
+libllvmarchive
+dir
+
+libllvmanalysis
+dir
+
+libllvmx86disassembler
+dir
+
+libllvmlinker
+dir
+
+libllvmmipsinfo
+dir
+
