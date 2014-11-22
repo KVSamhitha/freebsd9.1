@@ -1,0 +1,106 @@
+10
+
+dir
+274884
+svn://svn.freebsd.org/base/releng/9.1/tools/regression/sockets
+svn://svn.freebsd.org/base
+
+
+
+2012-03-05T19:10:55.847056Z
+232564
+bz
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+listen_backlog
+dir
+
+reconnect
+dir
+
+fstat
+dir
+
+unix_seqpacket
+dir
+
+unix_passfd
+dir
+
+listenclose
+dir
+
+zerosend
+dir
+
+sendfile
+dir
+
+unix_bindconnect
+dir
+
+unix_sendtorace
+dir
+
+unix_socket
+dir
+
+unix_gc
+dir
+
+unix_cmsg
+dir
+
+rtsocket
+dir
+
+kqueue
+dir
+
+sigpipe
+dir
+
+unix_close_race
+dir
+
+accept_fd_leak
+dir
+
+socketpair
+dir
+
+unix_sorflush
+dir
+
+accf_data_attach
+dir
+
+unix_seqpacket_exercise
+dir
+
+shutdown
+dir
+
+pr_atomic
+dir
+
+sblock
+dir
+
+so_setfib
+dir
+

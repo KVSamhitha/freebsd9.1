@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 314
+/head/contrib/llvm:225880,226633,227006,227735-227737,228379,230393,231057,232894,234353,234982,235864,236149,236260,236386,238429
+/projects/largeSMP/contrib/llvm:221273-222812,222815-223757
+/projects/quota64/contrib/llvm:184125-207707
+/vendor/llvm/dist:208954-235863
+/vendor/resolver/dist/contrib/llvm:1540-186085
+END
